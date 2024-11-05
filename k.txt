@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kobe Bryant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        h1, h2 {
+            margin: 0;
+        }
+        .image-container {
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+        }
+        .image-container img {
+            width: 100%;
+            max-width: 500px;
+            height: auto;
+            border-radius: 10px;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kobe Bryant</h1>
+    </header>
+    
+    <div class="image-container">
+        <img src="https://example.com/kobe-bryant.jpg" alt="Kobe Bryant">
+    </div>
+    
+    <section>
+        <h2>O Kobe Bryant</h2>
+        <p>Kobe Bryant był amerykańskim koszykarzem, uznawanym za jednego z najwybitniejszych zawodników w historii NBA. Urodził się 23 sierpnia 1978 roku w Filadelfii, Pensylwania, i spędził większość swojej kariery w Los Angeles Lakers.</p>
+        <h2>Kariera</h2>
+        <p>Bryant zdobył wiele tytułów i osiągnięć podczas swojej kariery. Był 18-krotnym All-Star, zdobywcą 5 tytułów mistrza NBA, 2-krotnym MVP Finałów NBA oraz zdobywcą nagrody MVP sezonu regularnego w 2008 roku. Zdobył także złoty medal olimpijski z reprezentacją USA w 2008 i 2012 roku.</p>
+        <h2>Śmierć</h2>
+        <p>Tragicznie, Kobe Bryant zginął w wypadku helikoptera 26 stycznia 2020 roku w Kalifornii. Wraz z nim zginęło jeszcze osiem innych osób, w tym jego córka Gianna.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Kobe Bryant Tribute Page</p>
+    </footer>
+</body>
+</html>
+
